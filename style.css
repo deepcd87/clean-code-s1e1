@@ -4,7 +4,9 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
-
+#img-section {
+  margin-bottom: 16px;
+}
 .img-container {
   width: 500px;
   margin: 0 auto;
